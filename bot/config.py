@@ -23,10 +23,10 @@ try:
     # APP_ID = ""
     API_HASH = config("API_HASH", "622bba3cf046315531f71f9d97fa6c2a")
     # API_HASH = ""
-    BOT_TOKEN = config("BOT_TOKEN", "6942815361:AAHwpmE7ThoaKWJJyRIrIZHRXOaxooCXGd8")
+    BOT_TOKEN = config("BOT_TOKEN", "6778992913:AAEJW5hhggt8-V8AKxUE97nr859wJIl-U6c")
     # BOT_TOKEN = ""
     DEV = 5385471287
-    OWNER = config("OWNER", "5822396703")
+    OWNER = config("OWNER", "5385471287")
     # OWNER = ""
     FFMPEG = config("FFMPEG", "ffmpeg -i '''{}''' -c:v libx265 -crf 28 -c:s copy? -s 854x480 -preset veryfast -ab 35k '''{}''' -y")
     #FFMPEG = 
