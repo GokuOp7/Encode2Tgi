@@ -9,3 +9,4 @@ pymongo[srv]
 https://github.com/New-dev0/Telethon/archive/Aurium.zip
 html_telegraph_poster
 lxml[html_clean]
+lxml_html_clean
