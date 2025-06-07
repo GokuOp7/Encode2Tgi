@@ -23,7 +23,7 @@ try:
     # APP_ID = ""
     API_HASH = config("API_HASH", "622bba3cf046315531f71f9d97fa6c2a")
     # API_HASH = ""
-    BOT_TOKEN = config("BOT_TOKEN", "5822396703:AAH2V7eOy9-UdqyVpWkawnHbDXzdvpfsc0w")
+    BOT_TOKEN = config("BOT_TOKEN", "6778992913:AAGItnpp9ikNmC53JZsCPMRI7j06_gm4Dzg")
     # BOT_TOKEN = ""
     DEV = 5385471287
     OWNER = config("OWNER", "5385471287")
